@@ -14,13 +14,6 @@ Hi - I'm Ben Learn. I'm currently a Senior Salesforce Trainer at Revature. This 
 
 **Connect w/ Me**
 
-<table>
-    <tr>
-        <td valign="center">
-            <a href="https://www.linkedin.com/in/benjamin-learn-63490816b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        </td>
-        <td>
-            <a href="https://trailblazer.me/id/blearn5241"><img src="./trailhead_logo.jpg" height="20" width="20"></a>
-        </td>
-    </tr>
-</table>
+<a href="https://www.linkedin.com/in/benjamin-learn-63490816b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+&nbsp;
+<a href="https://trailblazer.me/id/blearn5241"><img src="./trailhead_logo.jpg" height="20" width="20"></a>
